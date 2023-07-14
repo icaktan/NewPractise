@@ -1,0 +1,1 @@
+output = {"IaC yapisi olusturuldu"}
